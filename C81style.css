@@ -1,0 +1,23 @@
+body {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3enQs0FAkBf0RmVAzF-XrjqHUrvnYX95AzA&usqp=CAU);
+  }
+  
+  #my-canvas {
+	background-color: white;
+	border: dodgerblue 10px ridge;
+	border-radius: 30px;
+  }
+  
+  hr {
+	background-color: aqua;
+	height: 5px;
+  }
+  
+  h1 {
+	font-family: Montserrat, sans-serif;
+	color: dodgerblue;
+  }
+  
+  #my-canvas:hover {
+	transform: scale(0.9);
+  }
